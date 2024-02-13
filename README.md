@@ -57,4 +57,4 @@ I wasn't sure how to separate <div class="attribution"> to completely make it go
 ## Author
 
 - Website - [Fernando Batista] (https://www.fernando-batista.webflow.io)
-- Frontend Mentor - [@yourusername] (https://www.frontendmentor.io/profile/FernJBatista)
+- Frontend Mentor - [@FernJBatista] (https://www.frontendmentor.io/profile/FernJBatista)
